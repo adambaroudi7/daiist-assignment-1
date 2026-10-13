@@ -1,3 +1,5 @@
+Adam Baroudi
+
 # Assignment 1 Report
 
 *Delete this italic guidance as you fill in each section. You'll be asked to
